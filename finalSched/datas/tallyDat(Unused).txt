@@ -1,0 +1,228 @@
+AMU1O
+ 46 
+ 2 
+AMU2O
+ 48 
+ 2 
+AMU3M
+ 47 
+ 2 
+AMU4M
+ 15 
+ 1 
+APBIO
+ 0 
+ 0 
+APCAL
+ 0 
+ 0 
+APCHE
+ 0 
+ 0 
+APECO
+ 0 
+ 0 
+APPHY
+ 0 
+ 0 
+AVI2O
+ 111 
+ 6 
+AVI3M
+ 42 
+ 2 
+AVI4M
+ 17 
+ 1 
+BAF3M
+ 98 
+ 5 
+BAT4M
+ 29 
+ 1 
+BBB4M
+ 67 
+ 3 
+BBI1O
+ 68 
+ 4 
+BTT1O
+ 30 
+ 1 
+CGC1D
+ 157 
+ 9 
+CGF3M
+ 9 
+ 1 
+CGW4U
+ 46 
+ 2 
+CHA3U
+ 24 
+ 1 
+CHC2D
+ 141 
+ 8 
+CHV2O
+ 171 
+ 10 
+CHW3M
+ 70 
+ 4 
+CHY4U
+ 11 
+ 1 
+CIA4U
+ 40 
+ 2 
+CLN4U
+ 26 
+ 1 
+CLU3M
+ 36 
+ 2 
+ENG1D
+ 144 
+ 8 
+ENG2D
+ 183 
+ 10 
+ENG3U
+ 173 
+ 10 
+ENG4U
+ 153 
+ 9 
+ESLAO
+ 9 
+ 1 
+ESLBO
+ 9 
+ 1 
+ESLCO
+ 28 
+ 1 
+ESLDO
+ 38 
+ 2 
+ESLEO
+ 0 
+ 0 
+EWC4U
+ 11 
+ 1 
+FSF1D
+ 122 
+ 7 
+FSF2D
+ 24 
+ 1 
+FSF3U
+ 29 
+ 1 
+GLC2O
+ 169 
+ 9 
+GLS1O
+ 29 
+ 1 
+GPP3O
+ 95 
+ 5 
+HSB4U
+ 44 
+ 2 
+HSP3U
+ 66 
+ 3 
+HZT4U
+ 49 
+ 2 
+ICS2O
+ 21 
+ 1 
+ICS3U
+ 20 
+ 1 
+ICS4U
+ 1 
+ 0 
+LWSBD
+ 35 
+ 2 
+MCF3M
+ 23 
+ 1 
+MCR3U
+ 164 
+ 9 
+MCV4U
+ 116 
+ 6 
+MDM4U
+ 96 
+ 5 
+MHF4U
+ 155 
+ 9 
+MPM1D
+ 134 
+ 7 
+MPM2D
+ 164 
+ 9 
+PPL1O
+ 132 
+ 7 
+PPL2O
+ 146 
+ 8 
+PPL3O
+ 31 
+ 1 
+PSK4U
+ 0 
+ 0 
+SBI3U
+ 89 
+ 5 
+SBI4U
+ 47 
+ 2 
+SCH3U
+ 142 
+ 8 
+SCH4U
+ 88 
+ 5 
+SES4U
+ 14 
+ 1 
+SNC1D
+ 129 
+ 7 
+SNC2D
+ 161 
+ 9 
+SPH3U
+ 104 
+ 6 
+SPH4U
+ 61 
+ 3 
+STUDY
+ 0 
+ 0 
+TGJ2O
+ 92 
+ 5 
+TGJ3M
+ 75 
+ 4 
+TGJ4M
+ 67 
+ 3 
+
+ 0 
+ 0 

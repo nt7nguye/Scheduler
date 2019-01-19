@@ -1,0 +1,228 @@
+AMU1O
+ 0 
+ 0 
+AMU2O
+ 0 
+ 0 
+AMU3M
+ 0 
+ 0 
+AMU4M
+ 0 
+ 0 
+APBIO
+ 0 
+ 0 
+APCAL
+ 0 
+ 0 
+APCHE
+ 0 
+ 0 
+APECO
+ 0 
+ 0 
+APPHY
+ 0 
+ 0 
+AVI2O
+ 0 
+ 0 
+AVI3M
+ 0 
+ 0 
+AVI4M
+ 0 
+ 0 
+BAF3M
+ 0 
+ 0 
+BAT4M
+ 0 
+ 0 
+BBB4M
+ 0 
+ 0 
+BBI1O
+ 0 
+ 0 
+BTT1O
+ 0 
+ 0 
+CGC1D
+ 0 
+ 0 
+CGF3M
+ 0 
+ 0 
+CGW4U
+ 0 
+ 0 
+CHA3U
+ 0 
+ 0 
+CHC2D
+ 0 
+ 0 
+CHV2O
+ 0 
+ 0 
+CHW3M
+ 0 
+ 0 
+CHY4U
+ 0 
+ 0 
+CIA4U
+ 0 
+ 0 
+CLN4U
+ 0 
+ 0 
+CLU3M
+ 0 
+ 0 
+ENG1D
+ 0 
+ 0 
+ENG2D
+ 0 
+ 0 
+ENG3U
+ 0 
+ 0 
+ENG4U
+ 0 
+ 0 
+ESLAO
+ 0 
+ 0 
+ESLBO
+ 0 
+ 0 
+ESLCO
+ 0 
+ 0 
+ESLDO
+ 0 
+ 0 
+ESLEO
+ 0 
+ 0 
+EWC4U
+ 0 
+ 0 
+FSF1D
+ 0 
+ 0 
+FSF2D
+ 0 
+ 0 
+FSF3U
+ 0 
+ 0 
+GLC2O
+ 0 
+ 0 
+GLS1O
+ 0 
+ 0 
+GPP3O
+ 0 
+ 0 
+HSB4U
+ 0 
+ 0 
+HSP3U
+ 0 
+ 0 
+HZT4U
+ 0 
+ 0 
+ICS2O
+ 0 
+ 0 
+ICS3U
+ 0 
+ 0 
+ICS4U
+ 0 
+ 0 
+LWSBD
+ 0 
+ 0 
+MCF3M
+ 0 
+ 0 
+MCR3U
+ 0 
+ 0 
+MCV4U
+ 0 
+ 0 
+MDM4U
+ 0 
+ 0 
+MHF4U
+ 0 
+ 0 
+MPM1D
+ 0 
+ 0 
+MPM2D
+ 0 
+ 0 
+PPL1O
+ 0 
+ 0 
+PPL2O
+ 0 
+ 0 
+PPL3O
+ 0 
+ 0 
+PSK4U
+ 0 
+ 0 
+SBI3U
+ 0 
+ 0 
+SBI4U
+ 0 
+ 0 
+SCH3U
+ 0 
+ 0 
+SCH4U
+ 0 
+ 0 
+SES4U
+ 0 
+ 0 
+SNC1D
+ 0 
+ 0 
+SNC2D
+ 0 
+ 0 
+SPH3U
+ 0 
+ 0 
+SPH4U
+ 0 
+ 0 
+STUDY
+ 0 
+ 0 
+TGJ2O
+ 0 
+ 0 
+TGJ3M
+ 0 
+ 0 
+TGJ4M
+ 0 
+ 0 
+
+ 0 
+ 0 

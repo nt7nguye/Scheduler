@@ -1,0 +1,283 @@
+Mr. A. Blackwell
+AVI2O
+AVI3M
+AVI4M
+.
+Mr. A. Masterton
+PPL3O
+SNC1D
+SPH3U
+.
+Mr. A. Panchal
+CHC2D
+GPP3O
+.
+.
+Mr. C. Miller
+PPL1O
+.
+.
+.
+Mr. C. Sulpizi
+MCR3U
+MPM1D
+.
+.
+Mr. D. McCallen
+CGC1D
+CHV2O
+GLC2O
+HSP3U
+Mr. D. Milkovich
+CHW3M
+HZT4U
+.
+.
+Mr. D. Smith
+ICS2O
+ICS3U
+ICS4U
+.
+Mr. G. Hoare
+CHV2O
+CLN4U
+CLU3M
+GLC2O
+Mr. I. Brewster
+TGJ3M
+TGJ4M
+.
+.
+Mr. I. Carruthers
+CHV2O
+ENG1D
+ESLCO
+GLC2O
+Mr. I. Hoare
+AMU2O
+AMU3M
+AMU4M
+.
+Mr. J. D'Aguilar
+AMU1O
+SNC2D
+.
+.
+Mr. J. Lee
+BAF3M
+BBB4M
+.
+.
+Mr. J. Paul
+BBI1O
+MPM2D
+.
+.
+Mr. J. Sauer
+TGJ2O
+TGJ3M
+TGJ4M
+.
+Mr. J. Young
+CGC1D
+CGW4U
+CHC2D
+.
+Mr. K. Pedersen
+MCV4U
+.
+.
+.
+Mr. M. Regep
+APCAL
+MCR3U
+MCV4U
+MDM4U
+Mr. P. Robbins
+MCR3U
+MHF4U
+SPH3U
+.
+Mr. P. Sweeney
+PPL1O
+PPL2O
+.
+.
+Mr. S. Cowle
+CHA3U
+CHY4U
+.
+.
+Mr. T. Shapcott
+MCV4U
+MHF4U
+.
+.
+Mr. W. Simpson
+MDM4U
+MHF4U
+MPM2D
+.
+Mrs. B. Trivanovic
+CHC2D
+ESLAO
+ESLBO
+.
+Mrs. C. Alb
+APECO
+BAT4M
+CIA4U
+.
+Mrs. C. Brady
+BBI1O
+CGC1D
+.
+.
+Mrs. E. Muresan
+APPHY
+SPH3U
+SPH4U
+.
+Mrs. K. Reintjes
+APBIO
+SBI3U
+SBI4U
+.
+Mrs. K. Young
+SNC2D
+SPH3U
+.
+.
+Mrs. L. Maynard
+CGC1D
+ENG2D
+.
+.
+Mrs. L. McGivern
+ENG3U
+ENG4U
+.
+.
+Mrs. M. Haney
+CHV2O
+GLC2O
+MPM1D
+.
+Mrs. N. Davies
+AVI2O
+HSB4U
+HSP3U
+.
+Mrs. N. McRae
+MCF3M
+MCR3U
+MPM2D
+.
+Mrs. N. Moosa
+ENG2D
+ESLDO
+.
+.
+Mrs. R. Sharpe
+APCHE
+SCH4U
+.
+.
+Mrs. S. Spares
+BAF3M
+BAT4M
+BTT1O
+.
+Mrs. V. Koitsopoulos
+ENG3U
+ENG4U
+ESLEO
+.
+Ms. B. Birsa
+AVI2O
+.
+.
+.
+Ms. B. Coopman
+GPP3O
+SBI3U
+SNC1D
+.
+Ms. E. Saplys
+ENG1D
+ENG3U
+EWC4U
+HZT4U
+Ms. J. Sanford
+SBI3U
+SCH3U
+SCH4U
+.
+Ms. J. Weiner
+MPM2D
+SCH3U
+SNC1D
+.
+Ms. K. Walmark
+ENG3U
+ENG4U
+.
+.
+Ms. K. Zorec
+FSF1D
+FSF2D
+FSF3U
+.
+Ms. M. Higgs
+GPP3O
+TGJ2O
+.
+.
+Ms. M. Lucato
+BBI1O
+ENG1D
+ESLCO
+GLS1O
+Ms. S. Fuhr
+PPL1O
+PPL2O
+PSK4U
+.
+Ms. S. Lessing
+CHV2O
+GLC2O
+LWSBD
+.
+Ms. T. Vendittelli
+ENG1D
+GLS1O
+.
+.
+Ms. V. Porlier
+CGC1D
+CGF3M
+MDM4U
+SES4U
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

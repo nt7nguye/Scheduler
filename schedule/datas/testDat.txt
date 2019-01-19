@@ -1,0 +1,1908 @@
+Mr. A. Blackwell
+ 1
+AVI4M
+Mr. A. Masterton
+0
+
+Mr. A. Panchal
+0
+
+Mr. C. Miller
+0
+
+Mr. C. Sulpizi
+0
+
+Mr. D. McCallen
+0
+
+Mr. D. Milkovich
+0
+
+Mr. D. Smith
+ 1
+ICS4U
+Mr. G. Hoare
+0
+
+Mr. I. Brewster
+0
+
+Mr. I. Carruthers
+ 1
+ESLCO
+Mr. I. Hoare
+ 1
+AMU4M
+Mr. J. D'Aguilar
+0
+
+Mr. J. Lee
+0
+
+Mr. J. Paul
+ 1
+BBI1O
+Mr. J. Sauer
+0
+
+Mr. J. Young
+0
+
+Mr. K. Pedersen
+0
+
+Mr. M. Regep
+0
+
+Mr. P. Robbins
+0
+
+Mr. P. Sweeney
+0
+
+Mr. S. Cowle
+ 1
+CHY4U
+Mr. T. Shapcott
+0
+
+Mr. W. Simpson
+0
+
+Mrs. B. Trivanovic
+ 2
+ESLAO,ESLBO
+Mrs. C. Alb
+ 1
+BAT4M
+Mrs. C. Brady
+0
+
+Mrs. E. Muresan
+0
+
+Mrs. K. Reintjes
+0
+
+Mrs. K. Young
+0
+
+Mrs. L. Maynard
+0
+
+Mrs. L. McGivern
+ 1
+ENG4U
+Mrs. M. Haney
+0
+
+Mrs. N. Davies
+0
+
+Mrs. N. McRae
+0
+
+Mrs. N. Moosa
+0
+
+Mrs. R. Sharpe
+0
+
+Mrs. S. Spares
+ 1
+BAT4M
+Mrs. V. Koitsopoulos
+ 1
+ESLEO
+Ms. B. Birsa
+0
+
+Ms. B. Coopman
+0
+
+Ms. E. Saplys
+ 1
+EWC4U
+Ms. J. Sanford
+0
+
+Ms. J. Weiner
+0
+
+Ms. K. Walmark
+0
+
+Ms. K. Zorec
+0
+
+Ms. M. Higgs
+0
+
+Ms. M. Lucato
+ 2
+ESLCO,GLS1O
+Ms. S. Fuhr
+ 1
+PSK4U
+Ms. S. Lessing
+0
+
+Ms. T. Vendittelli
+ 1
+GLS1O
+Ms. V. Porlier
+ 2
+CGF3M,SES4U
+
+0
+
+Mr. A. Blackwell
+ 1
+AVI4M
+Mr. A. Masterton
+0
+
+Mr. A. Panchal
+0
+
+Mr. C. Miller
+0
+
+Mr. C. Sulpizi
+0
+
+Mr. D. McCallen
+0
+
+Mr. D. Milkovich
+0
+
+Mr. D. Smith
+ 1
+ICS4U
+Mr. G. Hoare
+0
+
+Mr. I. Brewster
+0
+
+Mr. I. Carruthers
+ 1
+ESLCO
+Mr. I. Hoare
+ 1
+AMU4M
+Mr. J. D'Aguilar
+0
+
+Mr. J. Lee
+0
+
+Mr. J. Paul
+ 1
+BBI1O
+Mr. J. Sauer
+0
+
+Mr. J. Young
+0
+
+Mr. K. Pedersen
+0
+
+Mr. M. Regep
+0
+
+Mr. P. Robbins
+0
+
+Mr. P. Sweeney
+0
+
+Mr. S. Cowle
+ 1
+CHY4U
+Mr. T. Shapcott
+0
+
+Mr. W. Simpson
+0
+
+Mrs. B. Trivanovic
+ 2
+ESLAO,ESLBO
+Mrs. C. Alb
+ 1
+BAT4M
+Mrs. C. Brady
+0
+
+Mrs. E. Muresan
+0
+
+Mrs. K. Reintjes
+0
+
+Mrs. K. Young
+0
+
+Mrs. L. Maynard
+0
+
+Mrs. L. McGivern
+ 1
+ENG4U
+Mrs. M. Haney
+0
+
+Mrs. N. Davies
+0
+
+Mrs. N. McRae
+0
+
+Mrs. N. Moosa
+0
+
+Mrs. R. Sharpe
+0
+
+Mrs. S. Spares
+ 1
+BAT4M
+Mrs. V. Koitsopoulos
+ 1
+ESLEO
+Ms. B. Birsa
+0
+
+Ms. B. Coopman
+0
+
+Ms. E. Saplys
+ 1
+EWC4U
+Ms. J. Sanford
+0
+
+Ms. J. Weiner
+0
+
+Ms. K. Walmark
+0
+
+Ms. K. Zorec
+0
+
+Ms. M. Higgs
+0
+
+Ms. M. Lucato
+ 2
+ESLCO,GLS1O
+Ms. S. Fuhr
+ 1
+PSK4U
+Ms. S. Lessing
+0
+
+Ms. T. Vendittelli
+ 1
+GLS1O
+Ms. V. Porlier
+ 2
+CGF3M,SES4U
+
+0
+
+Mr. A. Blackwell
+ 1
+AVI4M
+Mr. A. Masterton
+0
+
+Mr. A. Panchal
+0
+
+Mr. C. Miller
+0
+
+Mr. C. Sulpizi
+0
+
+Mr. D. McCallen
+0
+
+Mr. D. Milkovich
+0
+
+Mr. D. Smith
+ 1
+ICS4U
+Mr. G. Hoare
+0
+
+Mr. I. Brewster
+0
+
+Mr. I. Carruthers
+ 1
+ESLCO
+Mr. I. Hoare
+ 1
+AMU4M
+Mr. J. D'Aguilar
+0
+
+Mr. J. Lee
+0
+
+Mr. J. Paul
+ 1
+BBI1O
+Mr. J. Sauer
+0
+
+Mr. J. Young
+0
+
+Mr. K. Pedersen
+0
+
+Mr. M. Regep
+0
+
+Mr. P. Robbins
+0
+
+Mr. P. Sweeney
+0
+
+Mr. S. Cowle
+ 1
+CHY4U
+Mr. T. Shapcott
+0
+
+Mr. W. Simpson
+0
+
+Mrs. B. Trivanovic
+ 2
+ESLAO,ESLBO
+Mrs. C. Alb
+ 1
+BAT4M
+Mrs. C. Brady
+0
+
+Mrs. E. Muresan
+0
+
+Mrs. K. Reintjes
+0
+
+Mrs. K. Young
+0
+
+Mrs. L. Maynard
+0
+
+Mrs. L. McGivern
+ 1
+ENG4U
+Mrs. M. Haney
+0
+
+Mrs. N. Davies
+0
+
+Mrs. N. McRae
+0
+
+Mrs. N. Moosa
+0
+
+Mrs. R. Sharpe
+0
+
+Mrs. S. Spares
+ 1
+BAT4M
+Mrs. V. Koitsopoulos
+ 1
+ESLEO
+Ms. B. Birsa
+0
+
+Ms. B. Coopman
+0
+
+Ms. E. Saplys
+ 1
+EWC4U
+Ms. J. Sanford
+0
+
+Ms. J. Weiner
+0
+
+Ms. K. Walmark
+0
+
+Ms. K. Zorec
+0
+
+Ms. M. Higgs
+0
+
+Ms. M. Lucato
+ 2
+ESLCO,GLS1O
+Ms. S. Fuhr
+ 1
+PSK4U
+Ms. S. Lessing
+0
+
+Ms. T. Vendittelli
+ 1
+GLS1O
+Ms. V. Porlier
+ 2
+CGF3M,SES4U
+
+0
+
+Mr. A. Blackwell
+ 1
+AVI4M
+Mr. A. Masterton
+0
+
+Mr. A. Panchal
+0
+
+Mr. C. Miller
+0
+
+Mr. C. Sulpizi
+0
+
+Mr. D. McCallen
+0
+
+Mr. D. Milkovich
+0
+
+Mr. D. Smith
+ 1
+ICS4U
+Mr. G. Hoare
+0
+
+Mr. I. Brewster
+0
+
+Mr. I. Carruthers
+ 1
+ESLCO
+Mr. I. Hoare
+ 1
+AMU4M
+Mr. J. D'Aguilar
+0
+
+Mr. J. Lee
+0
+
+Mr. J. Paul
+ 1
+BBI1O
+Mr. J. Sauer
+0
+
+Mr. J. Young
+0
+
+Mr. K. Pedersen
+0
+
+Mr. M. Regep
+0
+
+Mr. P. Robbins
+0
+
+Mr. P. Sweeney
+0
+
+Mr. S. Cowle
+ 1
+CHY4U
+Mr. T. Shapcott
+0
+
+Mr. W. Simpson
+0
+
+Mrs. B. Trivanovic
+ 2
+ESLAO,ESLBO
+Mrs. C. Alb
+ 1
+BAT4M
+Mrs. C. Brady
+0
+
+Mrs. E. Muresan
+0
+
+Mrs. K. Reintjes
+0
+
+Mrs. K. Young
+0
+
+Mrs. L. Maynard
+0
+
+Mrs. L. McGivern
+ 1
+ENG4U
+Mrs. M. Haney
+0
+
+Mrs. N. Davies
+0
+
+Mrs. N. McRae
+0
+
+Mrs. N. Moosa
+0
+
+Mrs. R. Sharpe
+0
+
+Mrs. S. Spares
+ 1
+BAT4M
+Mrs. V. Koitsopoulos
+ 1
+ESLEO
+Ms. B. Birsa
+0
+
+Ms. B. Coopman
+0
+
+Ms. E. Saplys
+ 1
+EWC4U
+Ms. J. Sanford
+0
+
+Ms. J. Weiner
+0
+
+Ms. K. Walmark
+0
+
+Ms. K. Zorec
+0
+
+Ms. M. Higgs
+0
+
+Ms. M. Lucato
+ 2
+ESLCO,GLS1O
+Ms. S. Fuhr
+ 1
+PSK4U
+Ms. S. Lessing
+0
+
+Ms. T. Vendittelli
+ 1
+GLS1O
+Ms. V. Porlier
+ 2
+CGF3M,SES4U
+
+0
+
+Mr. A. Blackwell
+ 1
+AVI4M
+Mr. A. Masterton
+0
+
+Mr. A. Panchal
+0
+
+Mr. C. Miller
+0
+
+Mr. C. Sulpizi
+0
+
+Mr. D. McCallen
+0
+
+Mr. D. Milkovich
+0
+
+Mr. D. Smith
+ 1
+ICS4U
+Mr. G. Hoare
+0
+
+Mr. I. Brewster
+0
+
+Mr. I. Carruthers
+ 1
+ESLCO
+Mr. I. Hoare
+ 1
+AMU4M
+Mr. J. D'Aguilar
+0
+
+Mr. J. Lee
+0
+
+Mr. J. Paul
+ 1
+BBI1O
+Mr. J. Sauer
+0
+
+Mr. J. Young
+0
+
+Mr. K. Pedersen
+0
+
+Mr. M. Regep
+0
+
+Mr. P. Robbins
+0
+
+Mr. P. Sweeney
+0
+
+Mr. S. Cowle
+ 1
+CHY4U
+Mr. T. Shapcott
+0
+
+Mr. W. Simpson
+0
+
+Mrs. B. Trivanovic
+ 2
+ESLAO,ESLBO
+Mrs. C. Alb
+ 1
+BAT4M
+Mrs. C. Brady
+0
+
+Mrs. E. Muresan
+0
+
+Mrs. K. Reintjes
+0
+
+Mrs. K. Young
+0
+
+Mrs. L. Maynard
+0
+
+Mrs. L. McGivern
+ 1
+ENG4U
+Mrs. M. Haney
+0
+
+Mrs. N. Davies
+0
+
+Mrs. N. McRae
+0
+
+Mrs. N. Moosa
+0
+
+Mrs. R. Sharpe
+0
+
+Mrs. S. Spares
+ 1
+BAT4M
+Mrs. V. Koitsopoulos
+ 1
+ESLEO
+Ms. B. Birsa
+0
+
+Ms. B. Coopman
+0
+
+Ms. E. Saplys
+ 1
+EWC4U
+Ms. J. Sanford
+0
+
+Ms. J. Weiner
+0
+
+Ms. K. Walmark
+0
+
+Ms. K. Zorec
+0
+
+Ms. M. Higgs
+0
+
+Ms. M. Lucato
+ 2
+ESLCO,GLS1O
+Ms. S. Fuhr
+ 1
+PSK4U
+Ms. S. Lessing
+0
+
+Ms. T. Vendittelli
+ 1
+GLS1O
+Ms. V. Porlier
+ 2
+CGF3M,SES4U
+
+0
+
+Mr. A. Blackwell
+ 2
+AVI4M,AVI4M,AVI4M
+Mr. A. Masterton
+ 4
+PPL3O,PPL3O,SPH3U,SPH3U
+Mr. A. Panchal
+ 2
+GPP3O,GPP3O
+Mr. C. Miller
+0
+
+Mr. C. Sulpizi
+0
+
+Mr. D. McCallen
+ 6
+CGC1D,CGC1D,GLC2O,GLC2O,HSP3U,HSP3U
+Mr. D. Milkovich
+ 2
+HZT4U,HZT4U
+Mr. D. Smith
+ 5
+ICS4U,ICS2O,ICS2O,ICS3U,ICS3U,ICS4U
+Mr. G. Hoare
+ 4
+CLN4U,CLN4U,GLC2O,GLC2O
+Mr. I. Brewster
+ 2
+TGJ4M,TGJ4M
+Mr. I. Carruthers
+ 4
+ESLCO,ESLCO,ESLCO,GLC2O,GLC2O
+Mr. I. Hoare
+ 2
+AMU4M,AMU4M,AMU4M
+Mr. J. D'Aguilar
+0
+
+Mr. J. Lee
+0
+
+Mr. J. Paul
+ 1
+BBI1O,BBI1O
+Mr. J. Sauer
+ 2
+TGJ4M,TGJ4M
+Mr. J. Young
+ 2
+CGC1D,CGC1D
+Mr. K. Pedersen
+0
+
+Mr. M. Regep
+ 2
+MDM4U,MDM4U
+Mr. P. Robbins
+ 2
+SPH3U,SPH3U
+Mr. P. Sweeney
+0
+
+Mr. S. Cowle
+ 4
+CHY4U,CHA3U,CHA3U,CHY4U,CHY4U
+Mr. T. Shapcott
+0
+
+Mr. W. Simpson
+ 2
+MDM4U,MDM4U
+Mrs. B. Trivanovic
+ 4
+ESLAO,ESLBO,ESLAO,ESLAO,ESLBO,ESLBO
+Mrs. C. Alb
+ 2
+BAT4M,BAT4M,BAT4M
+Mrs. C. Brady
+ 2
+CGC1D,CGC1D
+Mrs. E. Muresan
+ 2
+SPH3U,SPH3U
+Mrs. K. Reintjes
+ 2
+SBI3U,SBI3U
+Mrs. K. Young
+ 2
+SPH3U,SPH3U
+Mrs. L. Maynard
+ 2
+CGC1D,CGC1D
+Mrs. L. McGivern
+ 1
+ENG4U,ENG4U
+Mrs. M. Haney
+ 2
+GLC2O,GLC2O
+Mrs. N. Davies
+ 2
+HSP3U,HSP3U
+Mrs. N. McRae
+ 2
+MCF3M,MCF3M
+Mrs. N. Moosa
+0
+
+Mrs. R. Sharpe
+0
+
+Mrs. S. Spares
+ 3
+BAT4M,BAT4M,BTT1O,BTT1O
+Mrs. V. Koitsopoulos
+ 1
+ESLEO,ESLEO
+Ms. B. Birsa
+0
+
+Ms. B. Coopman
+ 4
+GPP3O,GPP3O,SBI3U,SBI3U
+Ms. E. Saplys
+ 4
+EWC4U,EWC4U,EWC4U,HZT4U,HZT4U
+Ms. J. Sanford
+ 2
+SBI3U,SBI3U
+Ms. J. Weiner
+0
+
+Ms. K. Walmark
+0
+
+Ms. K. Zorec
+ 4
+FSF2D,FSF2D,FSF3U,FSF3U
+Ms. M. Higgs
+ 2
+GPP3O,GPP3O
+Ms. M. Lucato
+ 3
+ESLCO,GLS1O,ESLCO,GLS1O,GLS1O
+Ms. S. Fuhr
+ 1
+PSK4U,PSK4U
+Ms. S. Lessing
+ 2
+GLC2O,GLC2O
+Ms. T. Vendittelli
+ 1
+GLS1O,GLS1O
+Ms. V. Porlier
+ 8
+CGF3M,SES4U,CGC1D,CGC1D,CGF3M,CGF3M,MDM4U,MDM4U,SES4U,SES4U
+
+0
+
+Mr. A. Blackwell
+ 1
+AVI4M
+Mr. A. Masterton
+0
+
+Mr. A. Panchal
+0
+
+Mr. C. Miller
+0
+
+Mr. C. Sulpizi
+0
+
+Mr. D. McCallen
+0
+
+Mr. D. Milkovich
+0
+
+Mr. D. Smith
+ 1
+ICS4U
+Mr. G. Hoare
+0
+
+Mr. I. Brewster
+0
+
+Mr. I. Carruthers
+ 1
+ESLCO
+Mr. I. Hoare
+ 1
+AMU4M
+Mr. J. D'Aguilar
+0
+
+Mr. J. Lee
+0
+
+Mr. J. Paul
+ 1
+BBI1O
+Mr. J. Sauer
+0
+
+Mr. J. Young
+0
+
+Mr. K. Pedersen
+0
+
+Mr. M. Regep
+0
+
+Mr. P. Robbins
+0
+
+Mr. P. Sweeney
+0
+
+Mr. S. Cowle
+ 1
+CHY4U
+Mr. T. Shapcott
+0
+
+Mr. W. Simpson
+0
+
+Mrs. B. Trivanovic
+ 2
+ESLAO,ESLBO
+Mrs. C. Alb
+ 1
+BAT4M
+Mrs. C. Brady
+0
+
+Mrs. E. Muresan
+0
+
+Mrs. K. Reintjes
+0
+
+Mrs. K. Young
+0
+
+Mrs. L. Maynard
+0
+
+Mrs. L. McGivern
+ 1
+ENG4U
+Mrs. M. Haney
+0
+
+Mrs. N. Davies
+0
+
+Mrs. N. McRae
+0
+
+Mrs. N. Moosa
+0
+
+Mrs. R. Sharpe
+0
+
+Mrs. S. Spares
+ 1
+BAT4M
+Mrs. V. Koitsopoulos
+ 1
+ESLEO
+Ms. B. Birsa
+0
+
+Ms. B. Coopman
+0
+
+Ms. E. Saplys
+ 1
+EWC4U
+Ms. J. Sanford
+0
+
+Ms. J. Weiner
+0
+
+Ms. K. Walmark
+0
+
+Ms. K. Zorec
+0
+
+Ms. M. Higgs
+0
+
+Ms. M. Lucato
+ 2
+ESLCO,GLS1O
+Ms. S. Fuhr
+ 1
+PSK4U
+Ms. S. Lessing
+0
+
+Ms. T. Vendittelli
+ 1
+GLS1O
+Ms. V. Porlier
+ 2
+CGF3M,SES4U
+
+0
+
+Mr. A. Blackwell
+ 2
+AVI4M,AVI4M,AVI4M
+Mr. A. Masterton
+ 4
+PPL3O,PPL3O,SPH3U,SPH3U
+Mr. A. Panchal
+ 2
+GPP3O,GPP3O
+Mr. C. Miller
+0
+
+Mr. C. Sulpizi
+0
+
+Mr. D. McCallen
+ 6
+CGC1D,CGC1D,GLC2O,GLC2O,HSP3U,HSP3U
+Mr. D. Milkovich
+ 2
+HZT4U,HZT4U
+Mr. D. Smith
+ 5
+ICS4U,ICS2O,ICS2O,ICS3U,ICS3U,ICS4U
+Mr. G. Hoare
+ 4
+CLN4U,CLN4U,GLC2O,GLC2O
+Mr. I. Brewster
+ 2
+TGJ4M,TGJ4M
+Mr. I. Carruthers
+ 4
+ESLCO,ESLCO,ESLCO,GLC2O,GLC2O
+Mr. I. Hoare
+ 2
+AMU4M,AMU4M,AMU4M
+Mr. J. D'Aguilar
+0
+
+Mr. J. Lee
+0
+
+Mr. J. Paul
+ 1
+BBI1O,BBI1O
+Mr. J. Sauer
+ 2
+TGJ4M,TGJ4M
+Mr. J. Young
+ 2
+CGC1D,CGC1D
+Mr. K. Pedersen
+0
+
+Mr. M. Regep
+ 2
+MDM4U,MDM4U
+Mr. P. Robbins
+ 2
+SPH3U,SPH3U
+Mr. P. Sweeney
+0
+
+Mr. S. Cowle
+ 4
+CHY4U,CHA3U,CHA3U,CHY4U,CHY4U
+Mr. T. Shapcott
+0
+
+Mr. W. Simpson
+ 2
+MDM4U,MDM4U
+Mrs. B. Trivanovic
+ 4
+ESLAO,ESLBO,ESLAO,ESLAO,ESLBO,ESLBO
+Mrs. C. Alb
+ 2
+BAT4M,BAT4M,BAT4M
+Mrs. C. Brady
+ 2
+CGC1D,CGC1D
+Mrs. E. Muresan
+ 2
+SPH3U,SPH3U
+Mrs. K. Reintjes
+ 2
+SBI3U,SBI3U
+Mrs. K. Young
+ 2
+SPH3U,SPH3U
+Mrs. L. Maynard
+ 2
+CGC1D,CGC1D
+Mrs. L. McGivern
+ 1
+ENG4U,ENG4U
+Mrs. M. Haney
+ 2
+GLC2O,GLC2O
+Mrs. N. Davies
+ 2
+HSP3U,HSP3U
+Mrs. N. McRae
+ 2
+MCF3M,MCF3M
+Mrs. N. Moosa
+0
+
+Mrs. R. Sharpe
+0
+
+Mrs. S. Spares
+ 3
+BAT4M,BAT4M,BTT1O,BTT1O
+Mrs. V. Koitsopoulos
+ 1
+ESLEO,ESLEO
+Ms. B. Birsa
+0
+
+Ms. B. Coopman
+ 4
+GPP3O,GPP3O,SBI3U,SBI3U
+Ms. E. Saplys
+ 4
+EWC4U,EWC4U,EWC4U,HZT4U,HZT4U
+Ms. J. Sanford
+ 2
+SBI3U,SBI3U
+Ms. J. Weiner
+0
+
+Ms. K. Walmark
+0
+
+Ms. K. Zorec
+ 4
+FSF2D,FSF2D,FSF3U,FSF3U
+Ms. M. Higgs
+ 2
+GPP3O,GPP3O
+Ms. M. Lucato
+ 3
+ESLCO,GLS1O,ESLCO,GLS1O,GLS1O
+Ms. S. Fuhr
+ 1
+PSK4U,PSK4U
+Ms. S. Lessing
+ 2
+GLC2O,GLC2O
+Ms. T. Vendittelli
+ 1
+GLS1O,GLS1O
+Ms. V. Porlier
+ 8
+CGF3M,SES4U,CGC1D,CGC1D,CGF3M,CGF3M,MDM4U,MDM4U,SES4U,SES4U
+
+0
+
+Mr. A. Blackwell
+ 1
+AVI4M
+Mr. A. Masterton
+0
+
+Mr. A. Panchal
+0
+
+Mr. C. Miller
+0
+
+Mr. C. Sulpizi
+0
+
+Mr. D. McCallen
+0
+
+Mr. D. Milkovich
+0
+
+Mr. D. Smith
+ 1
+ICS4U
+Mr. G. Hoare
+0
+
+Mr. I. Brewster
+0
+
+Mr. I. Carruthers
+ 1
+ESLCO
+Mr. I. Hoare
+ 1
+AMU4M
+Mr. J. D'Aguilar
+0
+
+Mr. J. Lee
+0
+
+Mr. J. Paul
+ 1
+BBI1O
+Mr. J. Sauer
+0
+
+Mr. J. Young
+0
+
+Mr. K. Pedersen
+0
+
+Mr. M. Regep
+0
+
+Mr. P. Robbins
+0
+
+Mr. P. Sweeney
+0
+
+Mr. S. Cowle
+ 1
+CHY4U
+Mr. T. Shapcott
+0
+
+Mr. W. Simpson
+0
+
+Mrs. B. Trivanovic
+ 2
+ESLAO,ESLBO
+Mrs. C. Alb
+ 1
+BAT4M
+Mrs. C. Brady
+0
+
+Mrs. E. Muresan
+0
+
+Mrs. K. Reintjes
+0
+
+Mrs. K. Young
+0
+
+Mrs. L. Maynard
+0
+
+Mrs. L. McGivern
+ 1
+ENG4U
+Mrs. M. Haney
+0
+
+Mrs. N. Davies
+0
+
+Mrs. N. McRae
+0
+
+Mrs. N. Moosa
+0
+
+Mrs. R. Sharpe
+0
+
+Mrs. S. Spares
+ 1
+BAT4M
+Mrs. V. Koitsopoulos
+ 1
+ESLEO
+Ms. B. Birsa
+0
+
+Ms. B. Coopman
+0
+
+Ms. E. Saplys
+ 1
+EWC4U
+Ms. J. Sanford
+0
+
+Ms. J. Weiner
+0
+
+Ms. K. Walmark
+0
+
+Ms. K. Zorec
+0
+
+Ms. M. Higgs
+0
+
+Ms. M. Lucato
+ 2
+ESLCO,GLS1O
+Ms. S. Fuhr
+ 1
+PSK4U
+Ms. S. Lessing
+0
+
+Ms. T. Vendittelli
+ 1
+GLS1O
+Ms. V. Porlier
+ 2
+CGF3M,SES4U
+
+0
+
+Mr. A. Blackwell
+ 1
+AVI4M
+Mr. A. Masterton
+0
+
+Mr. A. Panchal
+0
+
+Mr. C. Miller
+0
+
+Mr. C. Sulpizi
+0
+
+Mr. D. McCallen
+0
+
+Mr. D. Milkovich
+0
+
+Mr. D. Smith
+ 1
+ICS4U
+Mr. G. Hoare
+0
+
+Mr. I. Brewster
+0
+
+Mr. I. Carruthers
+ 1
+ESLCO
+Mr. I. Hoare
+ 1
+AMU4M
+Mr. J. D'Aguilar
+0
+
+Mr. J. Lee
+0
+
+Mr. J. Paul
+ 1
+BBI1O
+Mr. J. Sauer
+0
+
+Mr. J. Young
+0
+
+Mr. K. Pedersen
+0
+
+Mr. M. Regep
+0
+
+Mr. P. Robbins
+0
+
+Mr. P. Sweeney
+0
+
+Mr. S. Cowle
+ 1
+CHY4U
+Mr. T. Shapcott
+0
+
+Mr. W. Simpson
+0
+
+Mrs. B. Trivanovic
+ 2
+ESLAO,ESLBO
+Mrs. C. Alb
+ 1
+BAT4M
+Mrs. C. Brady
+0
+
+Mrs. E. Muresan
+0
+
+Mrs. K. Reintjes
+0
+
+Mrs. K. Young
+0
+
+Mrs. L. Maynard
+0
+
+Mrs. L. McGivern
+ 1
+ENG4U
+Mrs. M. Haney
+0
+
+Mrs. N. Davies
+0
+
+Mrs. N. McRae
+0
+
+Mrs. N. Moosa
+0
+
+Mrs. R. Sharpe
+0
+
+Mrs. S. Spares
+ 1
+BAT4M
+Mrs. V. Koitsopoulos
+ 1
+ESLEO
+Ms. B. Birsa
+0
+
+Ms. B. Coopman
+0
+
+Ms. E. Saplys
+ 1
+EWC4U
+Ms. J. Sanford
+0
+
+Ms. J. Weiner
+0
+
+Ms. K. Walmark
+0
+
+Ms. K. Zorec
+0
+
+Ms. M. Higgs
+0
+
+Ms. M. Lucato
+ 2
+ESLCO,GLS1O
+Ms. S. Fuhr
+ 1
+PSK4U
+Ms. S. Lessing
+0
+
+Ms. T. Vendittelli
+ 1
+GLS1O
+Ms. V. Porlier
+ 2
+CGF3M,SES4U
+
+0
+
+Mr. A. Blackwell
+ 1
+AVI4M
+Mr. A. Masterton
+0
+
+Mr. A. Panchal
+0
+
+Mr. C. Miller
+0
+
+Mr. C. Sulpizi
+0
+
+Mr. D. McCallen
+0
+
+Mr. D. Milkovich
+0
+
+Mr. D. Smith
+ 1
+ICS4U
+Mr. G. Hoare
+0
+
+Mr. I. Brewster
+0
+
+Mr. I. Carruthers
+ 1
+ESLCO
+Mr. I. Hoare
+ 1
+AMU4M
+Mr. J. D'Aguilar
+0
+
+Mr. J. Lee
+0
+
+Mr. J. Paul
+ 1
+BBI1O
+Mr. J. Sauer
+0
+
+Mr. J. Young
+0
+
+Mr. K. Pedersen
+0
+
+Mr. M. Regep
+0
+
+Mr. P. Robbins
+0
+
+Mr. P. Sweeney
+0
+
+Mr. S. Cowle
+ 1
+CHY4U
+Mr. T. Shapcott
+0
+
+Mr. W. Simpson
+0
+
+Mrs. B. Trivanovic
+ 2
+ESLAO,ESLBO
+Mrs. C. Alb
+ 1
+BAT4M
+Mrs. C. Brady
+0
+
+Mrs. E. Muresan
+0
+
+Mrs. K. Reintjes
+0
+
+Mrs. K. Young
+0
+
+Mrs. L. Maynard
+0
+
+Mrs. L. McGivern
+ 1
+ENG4U
+Mrs. M. Haney
+0
+
+Mrs. N. Davies
+0
+
+Mrs. N. McRae
+0
+
+Mrs. N. Moosa
+0
+
+Mrs. R. Sharpe
+0
+
+Mrs. S. Spares
+ 1
+BAT4M
+Mrs. V. Koitsopoulos
+ 1
+ESLEO
+Ms. B. Birsa
+0
+
+Ms. B. Coopman
+0
+
+Ms. E. Saplys
+ 1
+EWC4U
+Ms. J. Sanford
+0
+
+Ms. J. Weiner
+0
+
+Ms. K. Walmark
+0
+
+Ms. K. Zorec
+0
+
+Ms. M. Higgs
+0
+
+Ms. M. Lucato
+ 2
+ESLCO,GLS1O
+Ms. S. Fuhr
+ 1
+PSK4U
+Ms. S. Lessing
+0
+
+Ms. T. Vendittelli
+ 1
+GLS1O
+Ms. V. Porlier
+ 2
+CGF3M,SES4U
+
+0
+
+Mr. A. Blackwell
+ 2
+AVI4M,AVI4M,AVI4M
+Mr. A. Masterton
+ 4
+PPL3O,PPL3O,SPH3U,SPH3U
+Mr. A. Panchal
+ 2
+GPP3O,GPP3O
+Mr. C. Miller
+0
+
+Mr. C. Sulpizi
+0
+
+Mr. D. McCallen
+ 6
+CGC1D,CGC1D,GLC2O,GLC2O,HSP3U,HSP3U
+Mr. D. Milkovich
+ 2
+HZT4U,HZT4U
+Mr. D. Smith
+ 5
+ICS4U,ICS2O,ICS2O,ICS3U,ICS3U,ICS4U
+Mr. G. Hoare
+ 4
+CLN4U,CLN4U,GLC2O,GLC2O
+Mr. I. Brewster
+ 2
+TGJ4M,TGJ4M
+Mr. I. Carruthers
+ 4
+ESLCO,ESLCO,ESLCO,GLC2O,GLC2O
+Mr. I. Hoare
+ 2
+AMU4M,AMU4M,AMU4M
+Mr. J. D'Aguilar
+0
+
+Mr. J. Lee
+0
+
+Mr. J. Paul
+ 1
+BBI1O,BBI1O
+Mr. J. Sauer
+ 2
+TGJ4M,TGJ4M
+Mr. J. Young
+ 2
+CGC1D,CGC1D
+Mr. K. Pedersen
+0
+
+Mr. M. Regep
+ 2
+MDM4U,MDM4U
+Mr. P. Robbins
+ 2
+SPH3U,SPH3U
+Mr. P. Sweeney
+0
+
+Mr. S. Cowle
+ 4
+CHY4U,CHA3U,CHA3U,CHY4U,CHY4U
+Mr. T. Shapcott
+0
+
+Mr. W. Simpson
+ 2
+MDM4U,MDM4U
+Mrs. B. Trivanovic
+ 4
+ESLAO,ESLBO,ESLAO,ESLAO,ESLBO,ESLBO
+Mrs. C. Alb
+ 2
+BAT4M,BAT4M,BAT4M
+Mrs. C. Brady
+ 2
+CGC1D,CGC1D
+Mrs. E. Muresan
+ 2
+SPH3U,SPH3U
+Mrs. K. Reintjes
+ 2
+SBI3U,SBI3U
+Mrs. K. Young
+ 2
+SPH3U,SPH3U
+Mrs. L. Maynard
+ 2
+CGC1D,CGC1D
+Mrs. L. McGivern
+ 1
+ENG4U,ENG4U
+Mrs. M. Haney
+ 2
+GLC2O,GLC2O
+Mrs. N. Davies
+ 2
+HSP3U,HSP3U
+Mrs. N. McRae
+ 2
+MCF3M,MCF3M
+Mrs. N. Moosa
+0
+
+Mrs. R. Sharpe
+0
+
+Mrs. S. Spares
+ 3
+BAT4M,BAT4M,BTT1O,BTT1O
+Mrs. V. Koitsopoulos
+ 1
+ESLEO,ESLEO
+Ms. B. Birsa
+0
+
+Ms. B. Coopman
+ 4
+GPP3O,GPP3O,SBI3U,SBI3U
+Ms. E. Saplys
+ 4
+EWC4U,EWC4U,EWC4U,HZT4U,HZT4U
+Ms. J. Sanford
+ 2
+SBI3U,SBI3U
+Ms. J. Weiner
+0
+
+Ms. K. Walmark
+0
+
+Ms. K. Zorec
+ 4
+FSF2D,FSF2D,FSF3U,FSF3U
+Ms. M. Higgs
+ 2
+GPP3O,GPP3O
+Ms. M. Lucato
+ 3
+ESLCO,GLS1O,ESLCO,GLS1O,GLS1O
+Ms. S. Fuhr
+ 1
+PSK4U,PSK4U
+Ms. S. Lessing
+ 2
+GLC2O,GLC2O
+Ms. T. Vendittelli
+ 1
+GLS1O,GLS1O
+Ms. V. Porlier
+ 8
+CGF3M,SES4U,CGC1D,CGC1D,CGF3M,CGF3M,MDM4U,MDM4U,SES4U,SES4U
+
+0
+

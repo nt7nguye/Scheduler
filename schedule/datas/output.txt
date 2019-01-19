@@ -1,0 +1,66 @@
+AMU1O;9;Music
+AMU2O;10;Music 
+AMU3M;11;Music, University/College Preparation
+AMU4M;12;Music, University/College Preparation
+AVI2O;10;Visual Arts
+AVI3M;11;Visual Arts, University/College Preparation
+AVI4M;12;Visual Arts, University/College Preparation
+BAF3M;11;Financial Accounting Fundamentals, University/College Preparation
+BAT4M;12;Financial Accounting Principles, University/College Preparation
+BBB4M;12;International Business Fundamentals, University/College Preparation
+BBI1O;9;Introduction to Business
+BTT1O;9; Information and Communication Technology in Business
+CGC1D;9; Issues in Canadian Geography
+CGF3M;11;Forces of Nature: Physical Processes and Disasters University/College Preparation
+CGW4U;12;World Issues: A Geographical Analysis, University Preparation
+CHA3U;11;American History, University Preparation
+CHC2D;10;Canadian History since World War I
+CHV2O;10;Civics and Citizenship
+CHW3M;11;World History
+CHY4U;12;World History
+CIA4U;12;Analysing Current Economic Issues
+CLN4U;12; Canadian and International Law
+CLU3M;11;Understanding Canadian Law
+ENG1D;9;English
+ENG2D;10;English
+ENG3U;11;English
+ENG4U;12;English
+EWC4U;12;Writer’s Craft
+FSF1D;9;Core French
+FSF2D;10;Core French
+FSF4U;12;Core French
+FSU3U;11;Core French
+GLS1O;9;Learning Strategies 1: Skills for Success in Secondary School
+GPP3O;11;Leadership and Peer
+HSB4U;12;Challenge and Change in Society
+HSP3U;11;Introduction to Anthropology, Psychology and Sociology
+HZT4U;12;Philosophy
+ICS2O;10;Introduction to Computer Studies
+ICS3U;11;Introduction to Computer Science
+ICS4U;12;Computer Science
+LWSBD;10;Spanish, Level 1
+LWSCU;11;Spanish, Level 2
+LWSDU;12;Spanish, Level 3
+MCF3M;11;Functions and Applications
+MCR3U;11;Functions and Relations
+MCV4U;12;Mathematics, Calculus and Vectors
+MDM4U;12;Mathematics of Data Management
+MHF4U;12;Advanced Functions
+MPM1D;9;Principles of Mathematics
+MPM2D;10;Principles of Mathematics
+PPL1O;9; Healthy Active Living Education
+PPL2O;10;Healthy Active Living Education
+PPL3O;11; Healthy Active Living Education
+PSK4U;12;Introductory Kinesiology
+SBI3U;11;Biology
+SBI4U;12;Biology
+SCH3U;11;Chemistry
+SCH4U;12;Chemistry
+SES4U;12;Earth and Space Science
+SNC1D;9;Science
+SNC2D;10;Science
+SPH3U;11; Physics
+SPH4U;12;Physics
+TGJ2O;10;Communications Technology
+TGJ3M;11;Communications Technology
+TGJ4M;12;Communications Technology
